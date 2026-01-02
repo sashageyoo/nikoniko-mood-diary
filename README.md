@@ -1,4 +1,4 @@
-# skincare-reminder-app
+# nikoniko - mood diary
 Kelompok xx
 - Arnando Michael Gtg (1313623014)
 - Sabiyan Avril Chandrakanta (1313623020)
