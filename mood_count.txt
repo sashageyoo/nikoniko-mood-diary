@@ -1,0 +1,73 @@
+MOOD COUNT
+
+Mood Count per Minggu
+
+Week 1 (1–7 Desember 2025)
+Happy: 4
+Good: 1
+Okay: 1
+Sad: 2
+Terrible: 2
+
+Week 2 (8–14 Desember 2025)
+
+Happy: 1
+Good: 2
+Okay: 2
+Sad: 2
+Terrible: 1
+
+Week 3 (15–21 Desember 2025)
+
+Happy: 0
+Good: 2
+Okay: 2
+Sad: 2
+Terrible: 1
+
+Week 4 (22–28 Desember 2025)
+
+Happy: 2
+Good: 3
+Okay: 2
+Sad: 1
+
+Terrible: 0
+
+Week 5 (29 Desember 2025 – 2 Januari 2026)
+
+Happy: 1
+Good: 1
+Okay: 2
+Sad: 1
+Terrible: 0
+
+---
+
+Mood Count per Bulan
+Desember 2025
+
+Happy: 9
+Good: 9
+Okay: 9
+Sad: 7
+Terrible: 4
+
+Januari 2026 (1–2 Januari)
+
+Happy: 1
+Good: 0
+Okay: 1
+Sad: 0
+Terrible: 0
+
+---
+
+Mood Count All Time
+
+Periode: 1 Desember 2025 – 2 Januari 2026
+Happy: 10
+Good: 10
+Okay: 10
+Sad: 8
+Terrible: 4
